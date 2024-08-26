@@ -1,0 +1,57 @@
+*{
+    font-family: "Gill Sans", sans-serif; box-sizing: border-box;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    /* justify-content: space-between; */
+    margin: 50px;
+    padding: 50px;
+    
+    
+    
+}
+.content hr{
+    width: 80%;
+}
+
+/* ****************************************** */
+
+.box{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 20%;
+    margin: 5px;
+
+
+}
+
+/* ****************************************** */
+
+#mid-box{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 20%;
+    /* height: 400px; */
+    margin: 5px;
+    background-color: blueviolet;
+
+    
+}
+#mid-box-button{
+    background-color: white;
+    color:blueviolet
+}
+
+
+/* ****************************************** */
+button{
+    background-color: blueviolet;
+    color: white;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 80%;
+    margin: 30px;
+    height: 30px;
+}
